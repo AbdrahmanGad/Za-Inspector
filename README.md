@@ -57,7 +57,7 @@ Works with all Zoho CRM APIs Versions: V2, V2.1, V3, V4, V5, V6, V7, V8.
 
 ### Chrome Web Store
 
-Download the extension from the [Chrome Web Store](#) *(coming soon)*
+Download the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/za-inspector/dibeafdghmoinnodojfeancaofaopmpg)
 
 ---
 
